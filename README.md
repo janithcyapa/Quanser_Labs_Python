@@ -7,3 +7,4 @@ This repo shows how to use Quanser-Innovate-Educate Products using QuanserSDK an
 - Install the Python Library : https://docs.quanser.com/quarc/documentation/python/index.html
 - Example Codes : https://github.com/quanser/quanser_sdk_examples
   
+https://docs.quanser.com/quarc/documentation/quarc_targets_library.html
